@@ -1,2 +1,2 @@
-# binocular_driver-
+# binocular_driver
 binocular camera Linux driver 
